@@ -20,6 +20,7 @@
         18 // J
         19 // K
     >;
+    require-prior-idle-ms = <200>;
 };
 
 / {
